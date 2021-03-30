@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\API Test\API Test\bin\Debug\netcoreapp2.0\API Test.deps.json
+C:\Users\HP\source\repos\API Test\API Test\bin\Debug\netcoreapp2.0\API Test.runtimeconfig.json
+C:\Users\HP\source\repos\API Test\API Test\bin\Debug\netcoreapp2.0\API Test.runtimeconfig.dev.json
+C:\Users\HP\source\repos\API Test\API Test\bin\Debug\netcoreapp2.0\API Test.dll
+C:\Users\HP\source\repos\API Test\API Test\bin\Debug\netcoreapp2.0\API Test.pdb
+C:\Users\HP\source\repos\API Test\API Test\obj\Debug\netcoreapp2.0\API Test.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\API Test\API Test\obj\Debug\netcoreapp2.0\API Test.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\API Test\API Test\obj\Debug\netcoreapp2.0\API Test.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\API Test\API Test\obj\Debug\netcoreapp2.0\API Test.AssemblyInfo.cs
+C:\Users\HP\source\repos\API Test\API Test\obj\Debug\netcoreapp2.0\API Test.dll
+C:\Users\HP\source\repos\API Test\API Test\obj\Debug\netcoreapp2.0\API Test.pdb
+C:\Users\HP\source\repos\API Test\API Test\bin\Debug\netcoreapp2.0\CSCompareLib.dll
+C:\Users\HP\source\repos\API Test\API Test\obj\Debug\netcoreapp2.0\API Test.csproj.CopyComplete
